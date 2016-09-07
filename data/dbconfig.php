@@ -2,7 +2,7 @@
 if (!defined('_GNUBOARD_')) exit;
 define('G5_MYSQL_HOST', 'localhost');
 define('G5_MYSQL_USER', 'cubetre_gysl777');
-define('G5_MYSQL_PASSWORD', 'ypretty!@');
+define('G5_MYSQL_PASSWORD', 'yprettyWkd!@');
 define('G5_MYSQL_DB', 'cubetre_gysl777');
 define('G5_MYSQL_SET_MODE', false);
 
